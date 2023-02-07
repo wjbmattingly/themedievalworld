@@ -1,13 +1,9 @@
 ---
 title: Seville's Roman Aqueduct
 date: 2023-02-06
-categories: [Rome, Aqueduct, Architecture, Seville, Free, Spain]
-tags: [rome,aqueduct,architecture,history,free,spain,seville]     # TAG names should always be lowercase
+categories: [Roman, Aqueduct, Architecture, Seville, Free, Spain]
+tags: [roman,aqueduct,architecture,history,free,spain,seville]     # TAG names should always be lowercase
 ---
-
-# The Remains of a Roman Aqueduct in Seville, Spain (Acueducto de los Caños de Carmona)
-
-# Quick Facts
 
 Place: Sevilla, Spain<br>
 Address: C. Luis Montoto, 19, 41003 Sevilla<br>
